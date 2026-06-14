@@ -89,7 +89,6 @@ A DIY WiFi-controlled toy car built using a NodeMCU (ESP8266) and an L298N motor
 ## Author
 
 **Padmajyothish K**
-[LinkedIn](YOUR_LINKEDIN_URL_HERE)
 
 ## License
 
